@@ -1,3 +1,4 @@
 {
-  "mongoURI": "mongodb+srv://glory_comp:glory_comp@serverlessinstance0.devzspl.mongodb.net/?retryWrites=true&w=majority"
+  "mongoURI": "mongodb+srv://glory_comp:glory_comp@serverlessinstance0.devzspl.mongodb.net/?retryWrites=true&w=majority",
+  "jwtSecret": "mysecrettoken"
 }
